@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"6b7ef090067276ab","type":"text","text":"Teamübergreifende Zusammenarbeit","x":-160,"y":-40,"width":400,"height":60},
+		{"id":"cec0f6d17304a4ea","type":"text","text":"Abhängigkeit von Unterstützung","x":-680,"y":-200,"width":400,"height":60,"color":"1"},
+		{"id":"e6f13ae95037ec1d","type":"text","text":"Kontrollverlust","x":-680,"y":-120,"width":400,"height":60,"color":"1"},
+		{"id":"ed706abb82c1ce53","type":"text","text":"Fehlende Kanäle, Networking","x":-680,"y":-40,"width":400,"height":60,"color":"1"},
+		{"id":"2d7f7ad5488f1b37","type":"text","text":"Blockade","x":-680,"y":40,"width":400,"height":60,"color":"1"},
+		{"id":"ce2cbb59aa037a03","type":"text","text":"Erfordert viel Geduld und Kontinuität","x":-680,"y":120,"width":400,"height":60,"color":"1"},
+		{"id":"678d437b836a1e37","type":"text","text":"Neue Impulse","x":360,"y":-200,"width":480,"height":60,"color":"4"},
+		{"id":"e3c351710845c73e","type":"text","text":"Selbstwirksamkeit","x":360,"y":-120,"width":480,"height":60,"color":"4"},
+		{"id":"dea0c9d891d75afe","type":"text","text":"Austausch fördert Kreativität und Motivation","x":360,"y":-40,"width":480,"height":60,"color":"4"},
+		{"id":"d8bc0fa03004ddaa","type":"text","text":"Feedback ist Voraussetzung für Verbesserungen","x":360,"y":40,"width":480,"height":60,"color":"4"},
+		{"id":"6a7264a11f4abc55","type":"text","text":"gegenseitiges Lernen","x":360,"y":120,"width":480,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"6ec0d3871dadff1f","fromNode":"6b7ef090067276ab","fromSide":"left","toNode":"cec0f6d17304a4ea","toSide":"right"},
+		{"id":"bfabadfb364cc862","fromNode":"6b7ef090067276ab","fromSide":"left","toNode":"e6f13ae95037ec1d","toSide":"right"},
+		{"id":"a75142d633a1d65e","fromNode":"6b7ef090067276ab","fromSide":"left","toNode":"ed706abb82c1ce53","toSide":"right"},
+		{"id":"cc8bde7742bcc672","fromNode":"6b7ef090067276ab","fromSide":"left","toNode":"2d7f7ad5488f1b37","toSide":"right"},
+		{"id":"cac288d35a36363f","fromNode":"6b7ef090067276ab","fromSide":"left","toNode":"ce2cbb59aa037a03","toSide":"right"},
+		{"id":"70d8c57aa48a27a7","fromNode":"6b7ef090067276ab","fromSide":"right","toNode":"678d437b836a1e37","toSide":"left"},
+		{"id":"351679de35663063","fromNode":"6b7ef090067276ab","fromSide":"right","toNode":"e3c351710845c73e","toSide":"left"},
+		{"id":"c8d19c88f939ea01","fromNode":"6b7ef090067276ab","fromSide":"right","toNode":"dea0c9d891d75afe","toSide":"left"},
+		{"id":"dacb3746bfe6a528","fromNode":"6b7ef090067276ab","fromSide":"right","toNode":"d8bc0fa03004ddaa","toSide":"left"},
+		{"id":"47b3bf7e40b6ccfd","fromNode":"6b7ef090067276ab","fromSide":"right","toNode":"6a7264a11f4abc55","toSide":"left"}
+	]
+}

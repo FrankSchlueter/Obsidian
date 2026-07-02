@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2f6aa2848f97622e","type":"text","text":"Toxische Arbeitsumgebung","x":-220,"y":0,"width":265,"height":60,"color":"1"},
+		{"id":"fc0810aab4da5921","type":"text","text":"Sehr viele Entwickler mit zu vielen Aufgaben","x":240,"y":-240,"width":460,"height":60,"color":"1"},
+		{"id":"fa8ee8c0495940f0","type":"text","text":"Unklare Ziele, Desorientierung","x":240,"y":-150,"width":460,"height":60,"color":"1"},
+		{"id":"cdaf87eaf88ec360","type":"text","text":"Wertesystem zusammengebrochen","x":240,"y":-60,"width":460,"height":60,"color":"1"},
+		{"id":"9e30cd9be02276c3","type":"text","text":"Fehlende Zieldiskussion","x":240,"y":40,"width":460,"height":60,"color":"1"},
+		{"id":"c81bf7570dce7ec6","type":"text","text":"TKeasy von Heute auf Morgen zur Altlast erklärt","x":240,"y":140,"width":460,"height":60,"color":"1"},
+		{"id":"cadfbd0eaecbb012","type":"text","text":"Konfliktthemen werden nicht gelöst","x":240,"y":240,"width":460,"height":60,"color":"1"},
+		{"id":"bf8ddcb38ad147ff","type":"text","text":"Neue Features gehen unter","x":240,"y":-340,"width":460,"height":60,"color":"1"},
+		{"id":"aa80059e2d30a155","type":"text","text":"Hoher Anpassungsdruck","x":240,"y":340,"width":460,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"7f628a8002503faf","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"cdaf87eaf88ec360","toSide":"left"},
+		{"id":"7e6e43852fe1fa49","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"9e30cd9be02276c3","toSide":"left"},
+		{"id":"d06c0e225c611540","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"bf8ddcb38ad147ff","toSide":"left"},
+		{"id":"93e38afe9ac38310","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"fc0810aab4da5921","toSide":"left"},
+		{"id":"e51a94ebf68347f4","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"fa8ee8c0495940f0","toSide":"left"},
+		{"id":"5627fef6071f0231","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"c81bf7570dce7ec6","toSide":"left"},
+		{"id":"dde81a75b16fe869","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"cadfbd0eaecbb012","toSide":"left"},
+		{"id":"2e2ab0df5724f6be","fromNode":"2f6aa2848f97622e","fromSide":"right","toNode":"aa80059e2d30a155","toSide":"left"}
+	]
+}

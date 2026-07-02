@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"6eb9aecc95f1f37e","type":"text","text":"Verbundenheit und Teamgeist","x":-680,"y":-320,"width":480,"height":60,"color":"4"},
+		{"id":"f4d771abdb6fa59a","type":"text","text":"Eigene und fremde Gefühle wahrnehmen","x":-680,"y":-240,"width":480,"height":60,"color":"4"},
+		{"id":"cc32f10dee611ee3","type":"text","text":"Selbstwahrnehmung","x":-680,"y":-150,"width":480,"height":60,"color":"4"},
+		{"id":"10cf5236e0cebc26","type":"text","text":"Selbstregulation","x":-680,"y":-60,"width":480,"height":60,"color":"4"},
+		{"id":"10e6a95a1f74db28","type":"text","text":"Empathie","x":-680,"y":40,"width":480,"height":60,"color":"4"},
+		{"id":"7892b4ea351a0cc9","type":"text","text":"soziale Kompetenz","x":-680,"y":140,"width":480,"height":60,"color":"4"},
+		{"id":"95709fa4425db490","type":"text","text":"Motivation","x":-680,"y":240,"width":480,"height":60,"color":"4"},
+		{"id":"b29f6bc672ef4725","type":"text","text":"Emotionale Intelligenz","x":0,"y":-60,"width":220,"height":60,"color":"4"},
+		{"id":"f00d64000fe895b2","x":340,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"Search Inside Yourself"}
+	],
+	"edges":[
+		{"id":"f0470e006ffa143e","fromNode":"b29f6bc672ef4725","fromSide":"left","toNode":"6eb9aecc95f1f37e","toSide":"right"},
+		{"id":"b74fce1358f7e16e","fromNode":"b29f6bc672ef4725","fromSide":"left","toNode":"f4d771abdb6fa59a","toSide":"right"},
+		{"id":"7618e3ca1ce1966a","fromNode":"b29f6bc672ef4725","fromSide":"left","toNode":"cc32f10dee611ee3","toSide":"right"},
+		{"id":"2e58d1018568949d","fromNode":"b29f6bc672ef4725","fromSide":"left","toNode":"10cf5236e0cebc26","toSide":"right"},
+		{"id":"7292ce51c57cb161","fromNode":"b29f6bc672ef4725","fromSide":"left","toNode":"10e6a95a1f74db28","toSide":"right"},
+		{"id":"c65fc96732c6d003","fromNode":"b29f6bc672ef4725","fromSide":"left","toNode":"7892b4ea351a0cc9","toSide":"right"},
+		{"id":"947bab754bb024f8","fromNode":"b29f6bc672ef4725","fromSide":"left","toNode":"95709fa4425db490","toSide":"right"},
+		{"id":"8728c2d90f885998","fromNode":"b29f6bc672ef4725","fromSide":"right","toNode":"f00d64000fe895b2","toSide":"left"}
+	]
+}

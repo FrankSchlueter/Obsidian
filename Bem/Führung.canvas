@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"bf528a2c426fcdeb","type":"text","text":"Stärken fördern","x":260,"y":-290,"width":480,"height":60,"color":"4"},
+		{"id":"dd82c875ebd9e671","type":"text","text":"Konflikte konstruktiv lösen","x":260,"y":-210,"width":480,"height":60,"color":"4"},
+		{"id":"7ec77a665d42e0c6","type":"text","text":"gemeinsame Werte und Ziele definieren","x":260,"y":-120,"width":480,"height":60,"color":"4"},
+		{"id":"f02bddded3fc9a86","type":"text","text":"Kommunikationsstrukturen schaffen","x":260,"y":-30,"width":480,"height":60,"color":"4"},
+		{"id":"e218d6bcdd8cd2be","type":"text","text":"klare Verantwortlichkeiten definieren","x":260,"y":70,"width":480,"height":60,"color":"4"},
+		{"id":"dc7c199bbd50d803","type":"text","text":"sicheren Rahmen bei Konflikten schaffen","x":260,"y":170,"width":480,"height":60,"color":"4"},
+		{"id":"38dc7d89e5d6c7c6","type":"text","text":"Stellung beziehen","x":260,"y":270,"width":480,"height":60,"color":"4"},
+		{"id":"bf1f3500fca19835","type":"text","text":"Führung","x":-160,"y":-30,"width":220,"height":60,"color":"3"},
+		{"id":"044521b99d94d616","type":"text","text":"Konflikte ignorieren","x":-760,"y":-210,"width":480,"height":60,"color":"1"},
+		{"id":"8b6e9613dc58a1a6","type":"text","text":"Orientierungslosigkeit","x":-760,"y":-120,"width":480,"height":60,"color":"1"},
+		{"id":"6cca606487a71431","type":"text","text":"Wirkungslosigkeit","x":-760,"y":-30,"width":480,"height":60,"color":"1"},
+		{"id":"62db1d3d83b19b31","type":"text","text":"Chaos","x":-760,"y":70,"width":480,"height":60,"color":"1"},
+		{"id":"536362f95408abc7","type":"text","text":"Opportunismus","x":-760,"y":170,"width":480,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"7df3754ade3e9ea3","fromNode":"bf1f3500fca19835","fromSide":"right","toNode":"bf528a2c426fcdeb","toSide":"left"},
+		{"id":"4c4f9d91ce7dfb6a","fromNode":"bf1f3500fca19835","fromSide":"right","toNode":"dd82c875ebd9e671","toSide":"left"},
+		{"id":"6e7eebcb1fc7ca1a","fromNode":"bf1f3500fca19835","fromSide":"right","toNode":"7ec77a665d42e0c6","toSide":"left"},
+		{"id":"67e37887b4b9cfd2","fromNode":"bf1f3500fca19835","fromSide":"right","toNode":"f02bddded3fc9a86","toSide":"left"},
+		{"id":"3cb7ef4eb8dd3e37","fromNode":"bf1f3500fca19835","fromSide":"right","toNode":"e218d6bcdd8cd2be","toSide":"left"},
+		{"id":"d4040a69e9e21afe","fromNode":"bf1f3500fca19835","fromSide":"right","toNode":"dc7c199bbd50d803","toSide":"left"},
+		{"id":"0da752a2b425530e","fromNode":"bf1f3500fca19835","fromSide":"right","toNode":"38dc7d89e5d6c7c6","toSide":"left"},
+		{"id":"143e8aff60ab2bfc","fromNode":"bf1f3500fca19835","fromSide":"left","toNode":"044521b99d94d616","toSide":"right"},
+		{"id":"b5b7750f55a7afcd","fromNode":"bf1f3500fca19835","fromSide":"left","toNode":"8b6e9613dc58a1a6","toSide":"right"},
+		{"id":"dbf0a3e5013a8e2e","fromNode":"bf1f3500fca19835","fromSide":"left","toNode":"6cca606487a71431","toSide":"right"},
+		{"id":"340eefd3d1611491","fromNode":"bf1f3500fca19835","fromSide":"left","toNode":"62db1d3d83b19b31","toSide":"right"},
+		{"id":"4b0d9c0f2634325e","fromNode":"bf1f3500fca19835","fromSide":"left","toNode":"536362f95408abc7","toSide":"right"}
+	]
+}

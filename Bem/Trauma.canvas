@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"91339694228a6457","type":"text","text":"Trauma","x":-60,"y":0,"width":120,"height":60,"color":"1"},
+		{"id":"3a00bffddca44e10","type":"text","text":"Entwicklungstrauma\n- frühe Kindheit\n- emotionale Vernachlässigung","x":180,"y":-100,"width":320,"height":130,"color":"1"},
+		{"id":"17a29f7066a51f8f","type":"text","text":"Schocktrauma\n- überwältigendes Ereignis","x":180,"y":80,"width":320,"height":80,"color":"1"},
+		{"id":"c835f323b458b645","type":"text","text":"Nervensystem Gefahr vs Sicherheit\n- Sympathikus\n\t- Stress: Kampf, Flucht, Erstarrung\n- Parasympathikus\n\t- Ruhe, Entspannung","x":-580,"y":-60,"width":390,"height":180,"color":"1"},
+		{"id":"655ddaa555eba5a2","type":"text","text":"Bindungsstörung\n- fehlende emotionale Verbundenheit\n- Ich bin falsch","x":-185,"y":-340,"width":365,"height":120,"color":"1"},
+		{"id":"a095e954125cb1ee","type":"text","text":"Depression\n- emotionale Dämpfung\n- Schutzpanzer","x":280,"y":-340,"width":250,"height":120,"color":"1"},
+		{"id":"5d0c5013b2e8737a","type":"text","text":"Sympathikus\n\t- Stress: Kampf, Flucht, Erstarrung","x":-1020,"y":-60,"width":320,"height":75,"color":"1"},
+		{"id":"63da0a0021303624","type":"text","text":"Parasympathikus\n\t- Ruhe, Entspannung","x":-1020,"y":55,"width":320,"height":65,"color":"4"},
+		{"id":"d692dffc4c656dab","type":"text","text":"chronische Überforderung\n- ständig an der Belastungsgrenze","x":-1000,"y":-340,"width":345,"height":120,"color":"1"},
+		{"id":"87174dac74ec9200","type":"text","text":"niedriger Selbstwert\n- Ich bin nicht genug\n- Leistungsdruck","x":-520,"y":-340,"width":240,"height":120,"color":"1"},
+		{"id":"ab45a0cf150f2241","type":"file","file":"Bem/Trauma-Curve.png","x":-1027,"y":171,"width":842,"height":629},
+		{"id":"1085d1245adf63e1","type":"text","text":"Mehr fühlen","x":400,"y":200,"width":440,"height":60,"color":"3"},
+		{"id":"004e7dd146166b7f","type":"text","text":"Verbesserte Selbstregulation","x":400,"y":290,"width":440,"height":60,"color":"4"},
+		{"id":"95817489acc9f92d","type":"text","text":"Heilung","x":180,"y":260,"width":120,"height":60,"color":"4"},
+		{"id":"5a633cf4a64b60e5","type":"text","text":"Kleine Auslöser triggern totale Überforderung","x":400,"y":396,"width":440,"height":60,"color":"1"},
+		{"id":"5eba610bb816f275","type":"text","text":"Trigger","x":180,"y":396,"width":120,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"f2b37687000af018","fromNode":"91339694228a6457","fromSide":"right","toNode":"3a00bffddca44e10","toSide":"left"},
+		{"id":"6739b93206823ec4","fromNode":"91339694228a6457","fromSide":"right","toNode":"17a29f7066a51f8f","toSide":"left"},
+		{"id":"dfd4f5340f19eb3e","fromNode":"91339694228a6457","fromSide":"left","toNode":"c835f323b458b645","toSide":"right"},
+		{"id":"528a763d78b0f6c4","fromNode":"91339694228a6457","fromSide":"top","toNode":"655ddaa555eba5a2","toSide":"bottom"},
+		{"id":"e3876bd9f7905701","fromNode":"91339694228a6457","fromSide":"top","toNode":"a095e954125cb1ee","toSide":"bottom"},
+		{"id":"88cf1a82e667649c","fromNode":"91339694228a6457","fromSide":"top","toNode":"d692dffc4c656dab","toSide":"bottom"},
+		{"id":"f89ad409057bf425","fromNode":"5d0c5013b2e8737a","fromSide":"top","toNode":"d692dffc4c656dab","toSide":"bottom"},
+		{"id":"43a130fa8f01493a","fromNode":"c835f323b458b645","fromSide":"left","toNode":"5d0c5013b2e8737a","toSide":"right"},
+		{"id":"96681c2e87c2ba6b","fromNode":"c835f323b458b645","fromSide":"left","toNode":"63da0a0021303624","toSide":"right"},
+		{"id":"dccce7b4af772d19","fromNode":"91339694228a6457","fromSide":"top","toNode":"87174dac74ec9200","toSide":"bottom"},
+		{"id":"953a6975b0efc4f3","fromNode":"87174dac74ec9200","fromSide":"left","toNode":"d692dffc4c656dab","toSide":"right"},
+		{"id":"4c3018227b616152","fromNode":"87174dac74ec9200","fromSide":"right","toNode":"655ddaa555eba5a2","toSide":"left"},
+		{"id":"08105e0426b8b83d","fromNode":"87174dac74ec9200","fromSide":"top","toNode":"a095e954125cb1ee","toSide":"top"},
+		{"id":"6991cdc75a0737b0","fromNode":"655ddaa555eba5a2","fromSide":"right","toNode":"a095e954125cb1ee","toSide":"left"},
+		{"id":"52a69dc3aeb1b629","fromNode":"d692dffc4c656dab","fromSide":"top","toNode":"a095e954125cb1ee","toSide":"top"},
+		{"id":"21bb2fbd5f9fbb69","fromNode":"91339694228a6457","fromSide":"bottom","toNode":"95817489acc9f92d","toSide":"left"},
+		{"id":"1dae531f847f3238","fromNode":"95817489acc9f92d","fromSide":"right","toNode":"1085d1245adf63e1","toSide":"left"},
+		{"id":"e179978df2ce6260","fromNode":"95817489acc9f92d","fromSide":"right","toNode":"004e7dd146166b7f","toSide":"left"},
+		{"id":"d3d653922931b12b","fromNode":"91339694228a6457","fromSide":"bottom","toNode":"5eba610bb816f275","toSide":"left"},
+		{"id":"dd2016c2698d4c32","fromNode":"5eba610bb816f275","fromSide":"right","toNode":"5a633cf4a64b60e5","toSide":"left"}
+	]
+}
