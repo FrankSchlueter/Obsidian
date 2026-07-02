@@ -168,20 +168,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Eclipse/Eclipse in Manjaro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Eclipse in Manjaro"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +194,12 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7d911eb8a8d8701",
+  "active": "4f2c54d83ef6c196",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-06-30 10.43.10.excalidraw.md",
     "KI/Opencode.md",
