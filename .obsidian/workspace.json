@@ -176,9 +176,19 @@
               "icon": "lucide-list",
               "title": "Gliederung von Eclipse in Manjaro"
             }
+          },
+          {
+            "id": "06d15f715e40a999",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f2c54d83ef6c196",
+  "active": "c7d911eb8a8d8701",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-06-30 10.43.10.excalidraw.md",
     "KI/Opencode.md",
