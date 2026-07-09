@@ -14,3 +14,4 @@ opencode auth login
 # Direkt Openrouter nutzen und nur Apikey abfragen
 opencode auth login -p openrouter
 ```
+
