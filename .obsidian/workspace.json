@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opencode/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
+                "file": "KI/AI Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow"
+              "title": "AI Tools"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Linux Konfiguration.md",
+                "file": "KI/Obsidian/Linux Konfiguration.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opencode/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
+                "file": "KI/AI Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow"
+              "title": "Gliederung von AI Tools"
             }
           },
           {
@@ -211,21 +211,22 @@
   },
   "active": "d394ae8e72cad42d",
   "lastOpenFiles": [
+    "KI/Openspec/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
+    "KI/Opencode",
     "KI/Openspec",
-    "KI/Opencode.md",
-    "Opencode/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
-    "Opencode/How I Use OpenCode, Oh-My-OpenCode-Slim, and OpenSpec to Build My Own AI Coding Environment.md",
+    "KI/Opencode/Opencode.md",
+    "KI/Opencode/How I Use OpenCode, Oh-My-OpenCode-Slim, and OpenSpec to Build My Own AI Coding Environment.md",
     "Opencode",
     "Linux/Github.md",
     "Eclipse/Eclipse in Manjaro.md",
     "Excalidraw/Drawing 2026-06-30 10.43.10.excalidraw.md",
     "Linux/Manjaro Linux Aktualisieren.md",
     "Bem/Overview.canvas",
-    "Obsidian/Linux Konfiguration.md",
+    "KI/Obsidian/Linux Konfiguration.md",
     "Excalidraw",
     "Bem/DasHausDerArbeitsfähigkeit.jpg",
     "Clippings/Google Antigravity Documentation.md",
-    "AI Tools.md",
+    "KI/AI Tools.md",
     "Clippings",
     "Bem/Emotionale Intelligenz.canvas",
     "Bem/Führung.canvas",
@@ -236,19 +237,17 @@
     "KI",
     "Bem/Teamwork.canvas",
     "Bem/Teamwork.md",
-    "Obsidian/Obsidian Help.md",
+    "KI/Obsidian/Obsidian Help.md",
     "Linux",
     "Toxische Arbeitsumgebung.md",
     "Bem/Trauma-Curve.png",
-    "Obsidian/Markdown Cheat Sheet  Markdown Guide.md",
+    "KI/Obsidian/Markdown Cheat Sheet  Markdown Guide.md",
     "Projekte/sonargraph-clone.md",
     "Bem/Trauma.md",
     "Bem",
     "Projekte/Unbenannt",
     "Projekte",
-    "Eclipse",
     "Obsidian/Markdown.md",
-    "Obsidian",
     "Willkommen.md"
   ]
 }
