@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KI/Opencode.md",
+                "file": "Opencode/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opencode"
+              "title": "Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow"
             }
           },
           {
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KI/Opencode.md",
+                "file": "Opencode/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Opencode"
+              "title": "Gliederung von Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow"
             }
           },
           {
@@ -211,13 +211,14 @@
   },
   "active": "d394ae8e72cad42d",
   "lastOpenFiles": [
+    "KI/Openspec",
+    "KI/Opencode.md",
     "Opencode/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
     "Opencode/How I Use OpenCode, Oh-My-OpenCode-Slim, and OpenSpec to Build My Own AI Coding Environment.md",
     "Opencode",
     "Linux/Github.md",
     "Eclipse/Eclipse in Manjaro.md",
     "Excalidraw/Drawing 2026-06-30 10.43.10.excalidraw.md",
-    "KI/Opencode.md",
     "Linux/Manjaro Linux Aktualisieren.md",
     "Bem/Overview.canvas",
     "Obsidian/Linux Konfiguration.md",
