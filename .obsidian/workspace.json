@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KI/AI Tools.md",
+                "file": "KI/Openspec/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Tools"
+              "title": "Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow"
             }
           },
           {
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KI/AI Tools.md",
+                "file": "KI/Openspec/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von AI Tools"
+              "title": "Gliederung von Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow"
             }
           },
           {
@@ -209,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d394ae8e72cad42d",
+  "active": "c7d911eb8a8d8701",
   "lastOpenFiles": [
+    "KI/AI Tools.md",
     "KI/Openspec/Reflection SDD Use a Reflection Harness to Level Up Your OpenSpec Workflow.md",
     "KI/Opencode",
     "KI/Openspec",
@@ -226,7 +227,6 @@
     "Excalidraw",
     "Bem/DasHausDerArbeitsfähigkeit.jpg",
     "Clippings/Google Antigravity Documentation.md",
-    "KI/AI Tools.md",
     "Clippings",
     "Bem/Emotionale Intelligenz.canvas",
     "Bem/Führung.canvas",
